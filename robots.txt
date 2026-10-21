@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barakah-trade.com/sitemap.xml
